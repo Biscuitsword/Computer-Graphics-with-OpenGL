@@ -1,5 +1,5 @@
 # Computer-Graphics-with-OpenGL
-SJTU计算机图形学 大作业
+SJTU计算机图形学 大作业 By Biscuitsword
 
 Opengl入门作品，基于freeglut进行开发，并未使用Qt所以界面有些简陋。
 
